@@ -1,0 +1,10 @@
+.cabecalho{
+    display: flex;
+    height: 100px;
+    background-color: rgb(165, 104, 114);
+    
+}
+
+.s{
+    width:50;
+}

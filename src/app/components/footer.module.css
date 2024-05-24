@@ -1,0 +1,12 @@
+.rodape{
+    display: flex;
+    height: 100px;
+    background-color: rgb(165, 104, 114);
+    display:flex;
+    justify-content:center;
+}
+
+.rodape{
+    margin-top: 50px;
+}
+
