@@ -5,6 +5,10 @@ export default function Header(){
     return(
         <header className={styles.cabecalho}>
         
+        <div>
+            <image className="style.imagem"
+            
+            />
         <nav className="nav">
                 <nav className="c">   
                 <Link href="/">     
@@ -12,6 +16,7 @@ export default function Header(){
                 </Link>
                 </nav>
             </nav>
+            </div>
     </header>
 );
 }
