@@ -14,6 +14,7 @@ export default function Footer() {
              src={"https://i.pinimg.com/originals/07/2f/5e/072f5ef47a0514ee374c4e838f5d54f0.jpg"}
              />
             </div>
+            
             <h1></h1>
 
             <ul>
