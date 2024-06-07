@@ -23,7 +23,7 @@ export default function Header(){
 
          <button className={style.botão}>Adicionar um novo produto</button>
 
-         <p>FRASE DE MARKETING DO SHOP</p>
+         <p>criar a frase pra colocar aqui</p>
 
     </header>
 );
