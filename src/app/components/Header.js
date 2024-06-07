@@ -21,9 +21,7 @@ export default function Header(){
             />
          </div>
 
-         <button className={style.botão}
-
-         />
+         <button className={style.botão}>Adicionar um novo produto</button>
 
          <p>FRASE DE MARKETING DO SHOP</p>
 
