@@ -6,17 +6,52 @@ export default function Footer() {
 
     return(
         <footer className={styles.rodape}>
-            <Link href= "https://ead.ifms.edu.br/">  
-
-            <Image
+            <div>
+            <image
              width={80}
              height={80}
-             src={"https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg"}
-            
-            />
-            </Link>
+             src={"https://i.pinimg.com/originals/07/2f/5e/072f5ef47a0514ee374c4e838f5d54f0.jpg"}
+             />
+            </div>
             <h1></h1>
-            
+
+            <ul>
+            <li className={styles.midia}><image
+             width={20}
+             height={20}
+             src={"https://i.pinimg.com/originals/07/2f/5e/072f5ef47a0514ee374c4e838f5d54f0.jpg"}
+             /></li>
+
+             <li><image
+             width={20}
+             height={20}
+             src={"https://i.pinimg.com/originals/07/2f/5e/072f5ef47a0514ee374c4e838f5d54f0.jpg"}
+             /></li>
+
+             <li><image
+             width={20}
+             height={20}
+             src={"https://i.pinimg.com/originals/07/2f/5e/072f5ef47a0514ee374c4e838f5d54f0.jpg"}
+             /></li>
+
+             <li><image
+             width={20}
+             height={20}
+             src={"https://i.pinimg.com/originals/07/2f/5e/072f5ef47a0514ee374c4e838f5d54f0.jpg"}
+             /></li>
+
+             <li><image
+             width={20}
+             height={20}
+             src={"https://i.pinimg.com/originals/07/2f/5e/072f5ef47a0514ee374c4e838f5d54f0.jpg"}
+             /></li>
+            </ul>
+
+            <p>Desde 05 de abril de 2006</p>
+
         </footer>
     );
 }
+
+
+
